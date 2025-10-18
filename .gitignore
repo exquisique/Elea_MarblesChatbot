@@ -1,12 +1,3 @@
-# Environment variables
-.env
-
-# Python artifacts
+# Virtual Environment
+Env/
 __pycache__/
-*.pyc
-
-# Local data
-/downloads/
-/artisan_marbles_db/
-leads.csv
-.csv
