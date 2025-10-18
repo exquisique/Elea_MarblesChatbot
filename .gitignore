@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Local data
+/downloads/
+/artisan_marbles_db/
+leads.csv
+.csv
