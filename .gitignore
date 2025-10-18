@@ -4,3 +4,12 @@ __pycache__/
 
 # Environment variables
 .env
+
+# Data files
+*.csv
+
+# Documentation
+marblebot.md
+
+# Database
+artisan_marbles_db/
